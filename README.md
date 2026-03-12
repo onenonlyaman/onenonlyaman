@@ -4,24 +4,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onenonlyaman&label=Profile%20views&color=0e75b6&style=flat" alt="onenonlyaman" /> </p>
 
-- 🔭 I’m currently working on [Dynamic Notes Website](https://bcahw.netlify.app)
+- 🔭 I’m currently working on [MidLoop Studios](midloop.studio)
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **Something cool**
 
-- 👯 I’m looking to collaborate on [Notes for BCA website](https://github.com/onenonlyaman/notes-bca)
+- 👯 I’m looking to collaborate on [Something](#)
 
 - 👨‍💻 All of my projects are available at [https://github.com/onenonlyaman](https://github.com/onenonlyaman)
 
 - 💬 Ask me about **python, c++, html and css**
 
-- 📫 How to reach me **beleaman76@gmail.com**
+- 📫 How to reach me **contact@amaann.me**
 
 - ⚡ Fun fact **I am a good photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/onenonlyaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="onenonlyaman" height="30" width="40" /></a>
-<a href="https://instagram.com/onenonlyaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simply_aaman" height="30" width="40" /></a>
+<a href="https://instagram.com/amaannsage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simply_aaman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
