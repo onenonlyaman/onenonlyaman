@@ -2,17 +2,21 @@ name: Update Profile Dynamic Sections
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub UI
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
 
 jobs:
-  update-dynamic-readme:
+  update-activity:
+    name: Update Recent GitHub Activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Pull Recent GitHub Activity
@@ -21,11 +25,29 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 5
-          COMMIT_MSG: "chore: update recent activity"
+          COMMIT_MSG: "chore: update recent activity [skip ci]"
 
-      - name: Pull Latest Dev.to Articles
-        uses: gautamkrishnar/blog-post-workflow@v1
+  generate-snake:
+    name: Generate Contribution Snake Animation
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
-          feed_list: "https://dev.to/feed/onenonlyaman"
-          max_post_count: 3
-          commit_message: "chore: update latest dev.to posts"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Snake SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
