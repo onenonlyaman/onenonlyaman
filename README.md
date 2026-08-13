@@ -10,7 +10,7 @@
 <br/>
 
 [![MidLoop Studios](https://img.shields.io/badge/Building-MidLoop%20Studios-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://midloop.studio)
-[![Website](https://img.shields.io/badge/Portfolio-amaann.me-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://midloop.studio)
+[![Website](https://img.shields.io/badge/Portfolio-amaann.me-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://amaann.me/)
 [![Email](https://img.shields.io/badge/Contact-contact%40amaann.me-18181B?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@amaann.me)
 
 </div>
