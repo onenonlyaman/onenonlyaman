@@ -37,6 +37,7 @@
 
 ### 📌 Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/shraddharaninayak/Bootstack/pull/1) in [shraddharaninayak/Bootstack](https://github.com/shraddharaninayak/Bootstack)
 <!--END_SECTION:activity-->
 
 
