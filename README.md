@@ -1,33 +1,66 @@
-[![MasterHead](https://files.catbox.moe/esawjz.jpg)](https://github.com/onenonlyaman)
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A very mysterious student studying in India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onenonlyaman&label=Profile%20views&color=0e75b6&style=flat" alt="onenonlyaman" /> </p>
+# Aman
 
-- 🔭 I’m currently working on [MidLoop Studios](https://midloop.studio)
+<a href="https://midloop.studio">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%26+Creative+Technologist;Building+%40+MidLoop+Studios;C%2B%2B+%7C+Python+%7C+Linux+%7C+Creative+Tech" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **Something cool**
+<br/>
 
-- 👯 I’m looking to collaborate on [Something](#)
+[![MidLoop Studios](https://img.shields.io/badge/Building-MidLoop%20Studios-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://midloop.studio)
+[![Website](https://img.shields.io/badge/Portfolio-amaann.me-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://midloop.studio)
+[![Email](https://img.shields.io/badge/Contact-contact%40amaann.me-18181B?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@amaann.me)
 
-- 👨‍💻 All of my projects are available at [https://github.com/onenonlyaman](https://github.com/onenonlyaman)
+</div>
 
-- 💬 Ask me about **python, c++, html and css**
 
-- 📫 How to reach me **contact@amaann.me**
 
-- ⚡ Fun fact **I am a good photographer**
+### ⚡ About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/onenonlyaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="onenonlyaman" height="30" width="40" /></a>
-<a href="https://instagram.com/amaannsage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simply_aaman" height="30" width="40" /></a>
+- 🛠 **Current Focus:** Building digital tools & products at [MidLoop Studios](https://midloop.studio)
+- 💻 **Core Interests:** Systems programming, backend architecture, 3D rendering, and photography
+- 💬 **Ask me about:** C, C++, Python, web development, and Linux workflows
+- 📬 **Reach me:** [`contact@amaann.me`](mailto:contact@amaann.me)
+
+
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,linux,git,mysql,sqlite,blender,ps&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/justaman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="justaman" /></a><a href="https://ko-fi.com/iamaman"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iamaman" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onenonlyaman&show_icons=true&locale=en" alt="onenonlyaman" /></p>
+### 📌 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
+### ✍️ Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=onenonlyaman&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=onenonlyaman&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="150" />
+</div>
+
+
+
+### 🌐 Connect & Support
+
+<p align="left">
+  <a href="https://dev.to/onenonlyaman"><img src="https://img.shields.io/badge/Dev.to-@onenonlyaman-18181B?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://instagram.com/amaannsage"><img src="https://img.shields.io/badge/Instagram-@amaannsage-18181B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.buymeacoffee.com/justaman"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-justaman-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+  <a href="https://ko-fi.com/iamaman"><img src="https://img.shields.io/badge/Ko--fi-iamaman-FF5E5B?style=flat-square&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+</p>
