@@ -50,7 +50,7 @@
 
 ### 📌 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/shraddharaninayak/Bootstack/pull/1) in [shraddharaninayak/Bootstack](https://github.com/shraddharaninayak/Bootstack)
+1. 🗣 Commented on [#1](https://github.com/shraddharaninayak/avenue-website-cloned-/pull/1#issuecomment-5546673936) in [shraddharaninayak/avenue-website-cloned-](https://github.com/shraddharaninayak/avenue-website-cloned-)
 <!--END_SECTION:activity-->
 
 ---
